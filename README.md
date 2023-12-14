@@ -19,7 +19,7 @@ The ultimate goal is to leverage RFM model-based customer segmentation and CLV t
 ## Methodology
 
 ### Fuzzy C-Means Clustering
-![image](https://github.com/dinhtai507/CustomerSegmentation_FuzzyC-Means/assets/101158366/a2cd18cb-cd42-449e-b77d-6985f391b443)
+![image](https://github.com/dinhtai507/CustomerSegmentation_FuzzyC-Means/assets/101158366/1e72c5a8-2c57-4ae0-a92c-fc5e36fecd8d)
 
 Fuzzy C-Means is a clustering algorithm that assigns customers to clusters based on their similarity. Unlike traditional hard clustering techniques, Fuzzy C-Means allows for overlapping membership, recognizing that customers may exhibit characteristics that span multiple segments. This flexibility is particularly valuable in situations where customers cannot be exclusively assigned to a single group due to ambiguous or diverse preferences.
 
