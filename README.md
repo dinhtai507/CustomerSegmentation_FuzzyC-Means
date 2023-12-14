@@ -52,4 +52,4 @@ To implement this project, follow the instructions in the [Installation Guide](.
 
 ## License
 
-This project is licensed under the [Your License] - see the [LICENSE.md](./LICENSE.md) file for details.
+This project is licensed under the [License] - see the [LICENSE.md](./LICENSE.md) file for details.
