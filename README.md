@@ -27,6 +27,13 @@ Fuzzy C-Means is a clustering algorithm that assigns customers to clusters based
 ![image](https://github.com/dinhtai507/CustomerSegmentation_FuzzyC-Means/assets/101158366/4f1731d4-bc19-49af-9ee0-abd7bf003482)
 
 The Analytic Hierarchy Process is a decision-making framework used to prioritize and weight different criteria in a hierarchical structure. In the context of customer segmentation, AHP assists in determining the importance of various segmentation variables. This hierarchical approach enables businesses to consider and balance multiple factors when defining customer segments.
+### Customer Lifetime Value (CLV) Calculation
+
+Customer Lifetime Value (CLV) is a pivotal metric in business and marketing that gauges the total revenue a business can anticipate earning from a customer over the entire duration of their relationship. This metric offers valuable insights into the long-term profitability of a customer, guiding businesses in making informed decisions related to customer acquisition costs, retention strategies, and overall marketing investments. Once the weights are established, they are applied to compute the CLV for each customer segment. This calculated CLV serves as a critical metric for understanding the long-term value of each customer group, assisting in the development of targeted marketing strategies. The overarching goal is to leverage insights gained from customer segmentation and CLV to tailor marketing efforts, thereby maximizing customer satisfaction and optimizing marketing resources.
+In summary, Customer Lifetime Value is a powerful metric that aids businesses in understanding the long-term value of their customers, enabling strategic decision-making to enhance customer relationships and maximize profitability.
+
+![image](https://github.com/dinhtai507/CustomerSegmentation_FuzzyC-Means/assets/101158366/ccadcaa0-2fcf-4db0-ae59-0b40f0e0d7ab)
+
 
 ## Business Benefits
 By integrating Fuzzy C-Means and AHP, businesses can achieve the following benefits:
