@@ -19,15 +19,15 @@ The ultimate goal is to leverage RFM model-based customer segmentation and CLV t
 ## Methodology
 
 ### Fuzzy C-Means Clustering
+![image](https://github.com/dinhtai507/CustomerSegmentation_FuzzyC-Means/assets/101158366/a2cd18cb-cd42-449e-b77d-6985f391b443)
 
 Fuzzy C-Means is a clustering algorithm that assigns customers to clusters based on their similarity. Unlike traditional hard clustering techniques, Fuzzy C-Means allows for overlapping membership, recognizing that customers may exhibit characteristics that span multiple segments. This flexibility is particularly valuable in situations where customers cannot be exclusively assigned to a single group due to ambiguous or diverse preferences.
 
 ### Analytic Hierarchy Process (AHP)
-
+![image](https://github.com/dinhtai507/CustomerSegmentation_FuzzyC-Means/assets/101158366/4f1731d4-bc19-49af-9ee0-abd7bf003482)
 The Analytic Hierarchy Process is a decision-making framework used to prioritize and weight different criteria in a hierarchical structure. In the context of customer segmentation, AHP assists in determining the importance of various segmentation variables. This hierarchical approach enables businesses to consider and balance multiple factors when defining customer segments.
 
 ## Business Benefits
-
 By integrating Fuzzy C-Means and AHP, businesses can achieve the following benefits:
 
 - **Enhanced Marketing Strategies:** The ability to assign customers to multiple groups allows for diverse and tailored marketing strategies based on their memberships in different clusters.
